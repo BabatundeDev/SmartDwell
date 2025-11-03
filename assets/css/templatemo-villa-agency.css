@@ -1722,6 +1722,7 @@ body {
     padding-right: 3px;
   }
   .header-area .main-nav .nav li:last-child a {
+    display: none;
     padding-right: 15px;
   }
   .main-banner .item h2 {
